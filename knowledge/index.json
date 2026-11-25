@@ -1,0 +1,22 @@
+{
+  "$comment": "Knowledge base for agents working on or reading mkuzela.cz. Start here.",
+  "site": "https://mkuzela.cz",
+  "files": [
+    {
+      "file": "brand.json",
+      "about": "Brand, tone of voice, vocabulary, role wording, colors, typography, logo rules, LinkedIn rules",
+      "source": "hand-written"
+    },
+    {
+      "file": "site.json",
+      "about": "Who Michal is, services, use cases, process, experience, contacts and page URLs (CZ + EN)",
+      "source": "generated from src/content.ts"
+    },
+    {
+      "file": "blog.json",
+      "about": "Published articles: metadata, outline, sources, summary and key points",
+      "source": "generated from src/blog/posts"
+    }
+  ],
+  "articles": 0
+}

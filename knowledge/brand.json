@@ -1,0 +1,100 @@
+{
+  "$comment": "Hand-maintained brand facts for agents. Source of truth for tone, vocabulary, colors and logo usage. Full illustrated manual: https://claude.ai/artifact/QBk9uBLkiM1B2ZjyDDrud3",
+  "updated": "2026-11-23",
+  "person": {
+    "name": "Michal Kužela",
+    "role_cs": "softwarový architekt a team & tech leader, původem backend developer",
+    "role_en": "software architect and team & tech leader, a backend developer at heart",
+    "location": "Brno, Czech Republic",
+    "experience": [
+      "backend developer: platformy, produkty, portály, weby, e-shopy",
+      "7+ let vede vývojové týmy až 10 lidí",
+      "100+ dodaných softwarových řešení",
+      "řečník na Orchard Harvest (Las Vegas 2024, Praha 2025)"
+    ],
+    "focus": "zapojení AI do stávajících systémů firem: integrace, AI agenti, MCP, automatizace"
+  },
+  "positioning": {
+    "one_liner_cs": "Zapojuji AI do systémů, které firmy už mají, tak, aby reálně šetřila čas – měřitelně a bez pozlátka.",
+    "claim_cs": "AI v praxi, bez pozlátka.",
+    "claim_en": "Practical AI, no fluff.",
+    "audiences": [
+      "rozhodovatelé ve firmách (majitelé, CTO, vedoucí provozu): co AI ušetří, kolik stojí, jaké je riziko",
+      "vývojáři a tech leadi: konkrétní postupy, čísla a kód"
+    ],
+    "values": [
+      { "name": "Praxe místo pozlátka", "meaning": "píšu jen o tom, co jsem sám vyzkoušel" },
+      { "name": "Měřitelnost", "meaning": "výsledek má číslo: čas, tokeny, cena, procento prošlých testů" },
+      { "name": "Řemeslo", "meaning": "kvalita a trvanlivost řešení, péče o detail" }
+    ]
+  },
+  "logo_story": [
+    { "element": "strom a kořeny", "meaning": "zakotvení v Bohu, pevný základ", "in_communication": "poctivost a pokora, neslibuji víc, než umím dodat, dlouhodobé vztahy" },
+    { "element": "rozvětvená koruna", "meaning": "šíře záběru: backend, platformy, produkty, portály, weby, e-shopy, integrace, management i truhlářství", "in_communication": "psaní z různých úhlů, příklady z kódu, vedení týmu i z dílny" },
+    { "element": "bez listí", "meaning": "jednoduchost, prostota, žádné fancy věci", "in_communication": "klidně, bez pozlátka, krátké věty, čistý design" },
+    { "element": "zlatá barva", "meaning": "kvalita, hodnota, poctivost práce", "in_communication": "kvalitu dokazuje výsledek, zlatá jen jako akcent" }
+  ],
+  "tone_of_voice": {
+    "summary": "Píšu jako člověk, který to sám programuje: lidsky, srozumitelně a s technickými detaily tam, kde pomáhají. Žádná marketingová řeč a žádná image.",
+    "principles": [
+      "Z praxe, ne z doslechu: jen vlastní projekty a měření; cizí tvrzení označit a nalinkovat.",
+      "Technicky, ale lidsky: architektura, kód a čísla vysvětlené tak, aby to pochopil i vedoucí provozu.",
+      "Číslo místo přídavného jména: „30 minut místo 2 hodin“, ne „výrazně rychlejší“.",
+      "Klidně, bez pozlátka: žádné „revoluční“, „změní všechno“, „musíte vidět“.",
+      "Upřímně i o limitech: kdy něco nedoporučuji a kolik to stojí."
+    ],
+    "addressing": {
+      "cs": "o sobě v první osobě, čtenářům vykám („vy“, „vám“) na webu, blogu, LinkedInu i v komentářích; tykám jen tam, kde mi tyká druhá strana",
+      "en": "stejný tón, krátké věty, americký pravopis; nepřekládat doslova, přepsat pro mezinárodního čtenáře"
+    },
+    "sound_like": ["kolega, který to sám dělá", "technicky přesně, ale srozumitelně", "konkrétně, s příkladem z projektu", "klidně a věcně", "krátké věty, jedna myšlenka na odstavec"],
+    "never_sound_like": ["guru, influencer, motivační řečník", "tisková zpráva nebo reklama", "obecně a abstraktně", "alarmisticky ani přehnaně nadšeně", "dlouhá souvětí a vata"],
+    "avoid_topics": [
+      "lifestyle jako kulisa (běhání, Tesla, „mezitím mi AI napsala aplikaci“)",
+      "strašení („všichni přijdou o práci“, „kdo nenaskočí, zanikne“)",
+      "sliby bez důkazu („10× rychleji“ bez vlastního měření)",
+      "marketingové fráze („game changer“, „další level“, „magie AI“)",
+      "emoji a clickbait v nadpisech"
+    ],
+    "vocabulary_use": ["backend", "integrace", "API", "AI agent", "automatizace", "měření", "ušetřený čas", "stávající systémy", "náklady v tokenech"],
+    "vocabulary_avoid": ["hype", "game changer", "revoluce", "revoluční", "magie", "synergie", "AI vás nahradí", "posuňte svůj byznys"],
+    "english_terms": "prompt, token, session apod. nechat anglicky; při prvním použití jednou větou vysvětlit",
+    "style_limits": { "max_sentence_words": 25, "max_paragraph_sentences": 3, "bold_per_paragraph": 1 }
+  },
+  "role_wording": {
+    "rule": "Roli vždy psát jako „team & tech leader“ (CZ i EN). Nikdy „team leader“ ani „tech lead“ samostatně.",
+    "cs": "softwarový architekt a team & tech leader",
+    "en": "software architect and team & tech leader"
+  },
+  "colors": {
+    "light": { "bg": "#fbfaf7", "bg_soft": "#f4f1ea", "surface": "#ffffff", "text": "#17140e", "muted": "#5b5548", "border": "#e6dfcf", "gold_text": "#7d611c", "gold_accent": "#b8902c", "gold_light": "#d4a644", "button": "#846820" },
+    "dark": { "bg": "#0d0c0a", "bg_soft": "#14130f", "surface": "#1a1813", "text": "#f3efe5", "muted": "#aaa293", "border": "#2d2a21", "gold_text": "#d4a644", "button": "#d4a644" },
+    "panel_dark": "#12110d",
+    "logo_gold": "#987227",
+    "gold_veil": "rgba(184,144,44,0.12)",
+    "proportion": "krémová 60 %, tmavá 25 %, text 10 %, zlatá 5 % (odhad)",
+    "contrast_rule": "na světlém pozadí je pro text jen #7d611c; #b8902c a #d4a644 jen na linky a ikony; na tmavém panelu je text zlatý #d4a644"
+  },
+  "typography": {
+    "font": "Plus Jakarta Sans (Google Fonts), řezy 400/500/600/700/800",
+    "h1": "36–60 px, 700, prostrkání -3 %, 2–3 slova zlatým přechodem",
+    "h2": "28 px (mobil 24 px), 700",
+    "kicker": "13 px, 700, verzálky, prostrkání +12 %, zlatá",
+    "body": "18 px (mobil 17 px), řádkování 1,75, sloupec max 720 px"
+  },
+  "logo": {
+    "files": {
+      "src/assets/logo-master.png": "1024×1024 průhledné, zdroj",
+      "src/assets/logo.svg": "vektor, jedna plochá zlatá #987227, tisk a velké formáty",
+      "public/logo-hd.png": "800×800, logo větší než 150 px, obrázky pro LinkedIn",
+      "public/logo.png": "400×400, logo do 150 px",
+      "public/favico - kopie.png": "1024×1024 s bílým pozadím, profilové fotky"
+    },
+    "rules": ["vždy celé (strom + MK)", "vždy zlaté", "ochranná zóna = výška písmene M", "minimum 40 px web, 15 mm tisk", "pozadí krémové nebo tmavé", "vodoznak 7–8 % krytí, oříznutý okrajem", "nepřebarvovat, nedeformovat, bez stínu a záře, ne na rušné pozadí", "na jedné obrazovce nejvýš jedno výrazné logo"]
+  },
+  "signature_elements": ["logo podpis mezi dvěma zlatými linkami (konec článku)", "tmavý autorský box s fotkou", "zlatý callout (TL;DR)", "obsah článku u svislé linky", "eyebrow pill se zlatým závojem", "vodoznak stromu", "kosočtverečkové odrážky", "obrázek pro LinkedIn generovaný při buildu"],
+  "linkedin": {
+    "post_structure": ["hook 1–2 řádky: rozpor nebo číslo", "kontext 2–3 řádky", "3–5 zjištění s čísly", "závěr 1 řádek", "otázka na konec (vykat)"],
+    "rules": ["odkaz na článek do prvního komentáře", "obrázek článku nebo PDF karusel 5–8 slidů", "1 post týdně, článek 1–2× měsíčně", "max 3 konkrétní hashtagy", "na komentáře odpovídat v první hodině"]
+  }
+}
