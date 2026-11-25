@@ -70,4 +70,18 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://mkuzela.cz/en/blog/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mkuzela.cz/cs/blog/"/>
   </url>
+  <url>
+    <loc>https://mkuzela.cz/cs/blog/subagenti-vs-agentni-tymy/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://mkuzela.cz/cs/blog/subagenti-vs-agentni-tymy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mkuzela.cz/en/blog/subagenti-vs-agentni-tymy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mkuzela.cz/cs/blog/subagenti-vs-agentni-tymy/"/>
+  </url>
+  <url>
+    <loc>https://mkuzela.cz/en/blog/subagenti-vs-agentni-tymy/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://mkuzela.cz/cs/blog/subagenti-vs-agentni-tymy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mkuzela.cz/en/blog/subagenti-vs-agentni-tymy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mkuzela.cz/cs/blog/subagenti-vs-agentni-tymy/"/>
+  </url>
 </urlset>
