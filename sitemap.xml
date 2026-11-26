@@ -15,48 +15,6 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mkuzela.cz/cs/"/>
   </url>
   <url>
-    <loc>https://mkuzela.cz/cs/services/</loc>
-    <lastmod>2026-11-26</lastmod>
-    <xhtml:link rel="alternate" hreflang="cs" href="https://mkuzela.cz/cs/services/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mkuzela.cz/en/services/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mkuzela.cz/cs/services/"/>
-  </url>
-  <url>
-    <loc>https://mkuzela.cz/en/services/</loc>
-    <lastmod>2026-11-26</lastmod>
-    <xhtml:link rel="alternate" hreflang="cs" href="https://mkuzela.cz/cs/services/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mkuzela.cz/en/services/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mkuzela.cz/cs/services/"/>
-  </url>
-  <url>
-    <loc>https://mkuzela.cz/cs/services/workshop/</loc>
-    <lastmod>2026-11-26</lastmod>
-    <xhtml:link rel="alternate" hreflang="cs" href="https://mkuzela.cz/cs/services/workshop/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mkuzela.cz/en/services/workshop/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mkuzela.cz/cs/services/workshop/"/>
-  </url>
-  <url>
-    <loc>https://mkuzela.cz/en/services/workshop/</loc>
-    <lastmod>2026-11-26</lastmod>
-    <xhtml:link rel="alternate" hreflang="cs" href="https://mkuzela.cz/cs/services/workshop/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mkuzela.cz/en/services/workshop/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mkuzela.cz/cs/services/workshop/"/>
-  </url>
-  <url>
-    <loc>https://mkuzela.cz/cs/services/ai-agents/</loc>
-    <lastmod>2026-11-26</lastmod>
-    <xhtml:link rel="alternate" hreflang="cs" href="https://mkuzela.cz/cs/services/ai-agents/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mkuzela.cz/en/services/ai-agents/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mkuzela.cz/cs/services/ai-agents/"/>
-  </url>
-  <url>
-    <loc>https://mkuzela.cz/en/services/ai-agents/</loc>
-    <lastmod>2026-11-26</lastmod>
-    <xhtml:link rel="alternate" hreflang="cs" href="https://mkuzela.cz/cs/services/ai-agents/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mkuzela.cz/en/services/ai-agents/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mkuzela.cz/cs/services/ai-agents/"/>
-  </url>
-  <url>
     <loc>https://mkuzela.cz/cs/blog/</loc>
     <lastmod>2026-11-26</lastmod>
     <xhtml:link rel="alternate" hreflang="cs" href="https://mkuzela.cz/cs/blog/"/>

@@ -13,12 +13,6 @@
   "pages": [
     "https://mkuzela.cz/cs/",
     "https://mkuzela.cz/en/",
-    "https://mkuzela.cz/cs/services/",
-    "https://mkuzela.cz/en/services/",
-    "https://mkuzela.cz/cs/services/workshop/",
-    "https://mkuzela.cz/en/services/workshop/",
-    "https://mkuzela.cz/cs/services/ai-agents/",
-    "https://mkuzela.cz/en/services/ai-agents/",
     "https://mkuzela.cz/cs/blog/",
     "https://mkuzela.cz/en/blog/",
     "https://mkuzela.cz/cs/blog/subagenti-vs-agentni-tymy/",
@@ -290,11 +284,7 @@
         "title": "Řešíte něco podobného?",
         "subtitle": "Napište mi, co vás zdržuje nebo co vás na AI zajímá. Rád se podívám, jestli a jak by šlo pomoct.",
         "email": "E-mail",
-        "linkedin": "LinkedIn",
-        "location": "Lokalita",
-        "locationValue": "Celá ČR osobně, online i do zahraničí (sídlo Brno)",
-        "response": "Odezva",
-        "responseValue": "Obvykle do 2 pracovních dnů"
+        "linkedin": "LinkedIn"
       },
       "footer": {
         "subtitle": "AI integrace, automatizace a AI agenti",
@@ -580,11 +570,7 @@
         "title": "Working on something similar?",
         "subtitle": "Write to me about what slows you down or what you are curious about with AI. I am happy to take a look at whether and how I can help.",
         "email": "E-mail",
-        "linkedin": "LinkedIn",
-        "location": "Location",
-        "locationValue": "All of Czechia on-site, online worldwide (based in Brno)",
-        "response": "Response time",
-        "responseValue": "Usually within 2 business days"
+        "linkedin": "LinkedIn"
       },
       "footer": {
         "subtitle": "AI integration, automation & AI agents",
